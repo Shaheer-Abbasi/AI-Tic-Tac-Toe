@@ -20,7 +20,7 @@ You can play this app in your browser. No installation required!
 [Click here to run it on Repl.it](https://replit.com/@Sleepless403/AI-Tic-Tac-Toe)
 
 1. Click "Run" at the top of the screen
-2. When prompted for inputs, type 'start' followed by, 
+2. When prompted for inputs, type 'start' followed by:
    - user user (if playing against yourself)
    - user easy (if you want to relax)
    - user medium (if you want a little challenge)
