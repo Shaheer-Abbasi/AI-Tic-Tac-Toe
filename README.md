@@ -21,9 +21,9 @@ You can play this app in your browser. No installation required!
 
 1. Click "Run" at the top of the screen
 2. When prompted for inputs, type 'start' followed by, 
-   a. user user (if playing against yourself)
-   b. user easy (if you want to relax)
-   c. user medium (if you want a little challenge)
-   d. user hard (if you want to watch Terminator 2 again)
-   e. *any difficulty* *any difficulty* (if you want to watch the computer fight itself!)
+   - user user (if playing against yourself)
+   - user easy (if you want to relax)
+   - user medium (if you want a little challenge)
+   - user hard (if you want to watch Terminator 2 again)
+   - *any difficulty* *any difficulty* (if you want to watch the computer fight itself!)
 3. Enjoy!
