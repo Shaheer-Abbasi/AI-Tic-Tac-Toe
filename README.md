@@ -26,4 +26,7 @@ You can play this app in your browser. No installation required!
    - user medium (if you want a little challenge)
    - user hard (if you want to watch Terminator 2 again)
    - *any difficulty* *any difficulty* (if you want to watch the computer fight itself!)
+   - *The order in which you type the 'players in determines who goes first which is 'X'*
+4. Enter in the coordinates of where you would like to move with a space in between ex. 1 1
+   - *coordinates are from 1-3!*
 3. Enjoy!
