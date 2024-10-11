@@ -1,4 +1,4 @@
-# AI-Tic-Tac-Toe
+# Impossible-Tic-Tac-Toe
 
 ## Tic-Tac-Toe game made with Java that can be played in the console. 
 
